@@ -2,7 +2,7 @@
 
 This a replica of the Back end from Hacker News. CRUD GraphQL API.
 
-# Features
+## Features
 
 - Visualize all Link and all User.
 
@@ -12,7 +12,7 @@ This a replica of the Back end from Hacker News. CRUD GraphQL API.
 
 - Vote for a Link.
 
-# Packages Used
+## Packages Used
 
 - [GraphQL](https://graphql.org/)
 
@@ -24,4 +24,4 @@ This a replica of the Back end from Hacker News. CRUD GraphQL API.
 
 - [SQLite](https://www.sqlite.org/index.html)
 
-![](ezgif.com-gif-maker.gif)
+![](ezgif.com-gif-maker (1).gif)

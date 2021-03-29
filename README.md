@@ -24,4 +24,4 @@ This a replica of the Back end from Hacker News. CRUD GraphQL API.
 
 - [SQLite](https://www.sqlite.org/index.html)
 
-![](ezgif.com-gif-maker (1).gif)
+![](toto.gif)
